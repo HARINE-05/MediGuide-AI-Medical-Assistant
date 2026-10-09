@@ -1,0 +1,19 @@
+MEDIGUIDE — YOUR COMPLETE TASK 5 PROJECT
+
+1. Extract the ZIP fully.
+2. Install Python 3.11 or 3.12 if needed.
+3. Open the MediGuide folder.
+4. Double-click start_windows.bat.
+5. Wait for installation, then open http://localhost:8501.
+6. Try Offline demo first.
+7. To show AI + web search, enter your Gemini and Tavily keys in the sidebar,
+   set a model available in your account, choose Gemini + Tavily and tick
+   the external-query checkbox.
+
+Read README.md for detailed setup and troubleshooting.
+Read docs/PROJECT_REPORT.md for your project explanation.
+Read docs/DEMO_AND_VIVA.md for presentation and viva answers.
+Read docs/REQUIREMENT_MAPPING.md to see how the requirements are covered.
+
+No real API keys are included. Do not send your keys in chat.
+This is an educational prototype, not a diagnosis or prescribing service.

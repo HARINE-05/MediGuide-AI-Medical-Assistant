@@ -1,0 +1,23 @@
+{
+  "paracetamol": {
+    "aliases": ["acetaminophen", "paracetamol"],
+    "uses": "Relieves pain and reduces a high temperature.",
+    "side_effects": "Side effects are uncommon when used correctly; allergic reactions can occur.",
+    "warnings": "Too much can cause serious liver harm. Avoid accidentally combining products containing the same ingredient. No dosing advice is provided here.",
+    "source": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+  },
+  "ibuprofen": {
+    "aliases": ["ibuprofen"],
+    "uses": "Relieves pain and reduces inflammation and fever.",
+    "side_effects": "Can cause stomach upset, nausea, dizziness or a rash.",
+    "warnings": "May be unsuitable with some medical conditions or medicines. A pharmacist should review other NSAIDs, blood thinners and blood-pressure medicines.",
+    "source": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+  },
+  "warfarin": {
+    "aliases": ["warfarin"],
+    "uses": "An anticoagulant used to prevent and treat blood clots.",
+    "side_effects": "Bleeding is an important risk.",
+    "warnings": "Other medicines can affect treatment. Consult the prescribing clinician or pharmacist before medicine changes.",
+    "source": "https://www.nhs.uk/medicines/warfarin/"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "dataset": "20 hand-authored illustrative English cases; not independent or clinical validation",
+  "accuracy": 0.8,
+  "emergency_recall": 0.8333333333333334,
+  "emergency_precision": 0.8333333333333334,
+  "true_positive": 10,
+  "true_negative": 6,
+  "false_positive": 2,
+  "false_negative": 2,
+  "cases": [
+    {
+      "query": "I have chest pain and my left arm feels numb",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "I cannot breathe",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "My father is unconscious",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "My throat is swelling",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "I took too many pills",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "She has slurred speech and sudden weakness",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "He is vomiting blood",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "I want to kill myself",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "I have crushing chest pressure",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "My tongue is swelling",
+      "expected_emergency": true,
+      "predicted_emergency": true
+    },
+    {
+      "query": "What is paracetamol used for?",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "What are ibuprofen side effects?",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "Find generic for Tylenol Regular Strength",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "Can I take ibuprofen with warfarin?",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "Explain medication safety",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "Latest medicine recall notices",
+      "expected_emergency": false,
+      "predicted_emergency": false
+    },
+    {
+      "query": "I have no chest pain",
+      "expected_emergency": false,
+      "predicted_emergency": true
+    },
+    {
+      "query": "Explain the term chest pain for an assignment",
+      "expected_emergency": false,
+      "predicted_emergency": true
+    },
+    {
+      "query": "It feels like an elephant is sitting on my chest",
+      "expected_emergency": true,
+      "predicted_emergency": false
+    },
+    {
+      "query": "My smile is uneven and I cannot lift one arm",
+      "expected_emergency": true,
+      "predicted_emergency": false
+    }
+  ]
+}
